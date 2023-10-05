@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @21mohammad12
+- 👋 Hi, I’m Mr.Hussiny.1384
 - 👀 I’m interested in artificial intelligence programming .
-- 🌱 I’m currently learning Python and C# .
+- 🌱 I am currently learning python and designing websites with Html & Css & JS .
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me via email address --> (alireza.hussaini.afg@gmail.com) .
+- 📫 How to reach me via email address --> (mohammadhussini90@gmail.com) .
 
 <!---
 21mohammad12/21mohammad12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
